@@ -1,0 +1,7 @@
+-  👋 Hi, I’m @RameezRS16  
+- 👀 I’m passionate about Data Science, Artificial Intelligence, and Machine Learning.  
+- 🌱 I’m currently enhancing my skills in Deep Learning, Natural Language Processing (NLP), and Advanced Data Analytics.  
+- 💞️ I’m looking to collaborate on research-driven AI/ML projects and data-driven solutions.  
+- 📫 You can reach me via [rameezrajasoomro83@gmail.com].  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I believe in continuous learning and innovation, always seeking new challenges to solve through data.
