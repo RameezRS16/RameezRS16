@@ -44,12 +44,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 🔥 **Contribution Graph (Snake Eating Contributions)**
-![Snake Animation](https://github.com/RameezRS/RameezRS/blob/output/github-contribution-grid-snake.svg)
-
----
-
+ 
 ## 🕹️ **Live 3D Snake Game**
 ![Snake Game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
