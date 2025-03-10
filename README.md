@@ -1,4 +1,6 @@
-![3D Welcome](https://readme-3d.vercel.app/en?text=Welcome%20to%20My%20GitHub!)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+My+GitHub!;Data+Science+%7C+AI+%7C+Blockchain+Enthusiast;Innovating+with+Technology" alt="Typing Animation" />
+</p>
 
 # 🚀 **Rameez Raja Soomro**  
 ### Data Scientist | AI & Blockchain Enthusiast | Tech Innovator
@@ -12,8 +14,10 @@
 ## 🌀 **Dynamic Profile Overview**
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RameezRS&theme=github_dark)
 
-## 🎬 **Animated GitHub Banner**
-![3D Banner](https://readme-3d.vercel.app/en?text=🚀%20Explore%20My%20Tech%20World!&fontSize=45)
+## 🎬 **Live GitHub Banner**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0000FF&height=200&section=header&text=🚀%20Explore%20My%20Tech%20World!&fontSize=45&fontColor=fff"/>
+</p>
 
 ## 🛠️ **Tech Stack & Tools**
 
