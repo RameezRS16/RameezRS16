@@ -10,10 +10,7 @@
 💡 **Always exploring new technologies and pushing boundaries**
 
 ---
-
-## 🌀 **Dynamic Profile Overview**
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RameezRS&theme=github_dark)
-
+ 
 ## 🎬 **Live 3D GitHub Banner**
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF5733,50:8A2BE2,100:0000FF&height=200&section=header&text=🚀%20Explore%20My%20Tech%20World!&fontSize=45&fontColor=fff"/>
