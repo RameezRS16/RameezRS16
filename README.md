@@ -11,36 +11,15 @@
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+## 🌀 **Dynamic Profile Overview**
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RameezRS&theme=github_dark)
 
-### 🚀 **Technologies & Tools**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0095A8?style=for-the-badge&logo=seaborn&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
-![Spark](https://img.shields.io/badge/Apache%20Spark-FC7F00?style=for-the-badge&logo=apache-spark&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+## 🎬 **Live 3D GitHub Banner**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF5733,50:8A2BE2,100:0000FF&height=200&section=header&text=🚀%20Explore%20My%20Tech%20World!&fontSize=45&fontColor=fff"/>
+</p>
 
 ---
-
-## 📊 **GitHub Stats & Achievements**
-![Rameez's Streak](https://streak-stats.demolab.com?user=RameezRS&theme=radical&hide_border=false)
 
 ## 💖 **Most Loved Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,13 +31,13 @@
 
 ---
 
-## 🌍 **Let's Connect!**
-<p align="center">
-  <a href="mailto:rameezrajasoomro83@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="mailto:Rameezsoomro12@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.instagram.com/rameezrs16?r=nametag"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="http://Twitter.com/RameezRS16"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
+## 🕹️ **Live 3D Snake Game**
+![Snake Game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+---
+## 📊 **GitHub Stats & Achievements**
+![Rameez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RameezRS&show_icons=true&theme=radical)
+![Rameez's Streak](https://streak-stats.demolab.com?user=RameezRS&theme=radical&hide_border=false)
 
 ---
 
