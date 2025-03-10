@@ -10,11 +10,6 @@
 💡 **Always exploring new technologies and pushing boundaries**
 
 ---
- 
-## 🎬 **Live 3D GitHub Banner**
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF5733,50:8A2BE2,100:0000FF&height=200&section=header&text=🚀%20Explore%20My%20Tech%20World!&fontSize=45&fontColor=fff"/>
-</p>
 
 ## 🛠️ **Tech Stack & Tools**
 
@@ -45,7 +40,6 @@
 ---
 
 ## 📊 **GitHub Stats & Achievements**
-![Rameez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RameezRS&show_icons=true&theme=radical)
 ![Rameez's Streak](https://streak-stats.demolab.com?user=RameezRS&theme=radical&hide_border=false)
 
 ## 💖 **Most Loved Languages**
