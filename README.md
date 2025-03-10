@@ -1,4 +1,4 @@
-### Hi there, I'm [Rameez Raja Soomro] 👋
+ ### Hi there, I'm [Rameez Raja Soomro] 👋
 
 🚀 **AI | Data Science | Blockchain Enthusiast**  
 📊 Data Analyst | 📈 Finance & Marketing | 💡 Tech Innovator  
@@ -55,6 +55,12 @@
 ## 📊 GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+## 🏆 My GitHub Level  
+![GitHub Level](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=radical)  
+![Repositories Count](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-username&theme=radical)
 
 ---
 
