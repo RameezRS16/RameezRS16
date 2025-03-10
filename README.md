@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+My+GitHub!;Data+Science+%7C+AI+%7C+Blockchain+Enthusiast;Innovating+with+Technology" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+My+GitHub!;Data+Science+%7C+AI+%7C+Blockchain+Enthusiast;Innovating+with+Technology" alt="Typing Animation" />
 </p>
 
 # 🚀 **Rameez Raja Soomro**  
@@ -16,7 +16,7 @@
 
 ## 🎬 **Live GitHub Banner**
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0000FF&height=200&section=header&text=🚀%20Explore%20My%20Tech%20World!&fontSize=45&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,50:8A2BE2,100:0000FF&height=200&section=header&text=🚀%20Explore%20My%20Tech%20World!&fontSize=45&fontColor=fff"/>
 </p>
 
 ## 🛠️ **Tech Stack & Tools**
