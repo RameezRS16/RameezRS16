@@ -19,11 +19,7 @@
 - 🌟 Aiming to **revolutionize AI & Analytics**  
 
 ---
-
-## 🌟 My Skill Level
-![Skill Level](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-username&theme=radical)  
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=your-username&theme=radical)
-
+ 
 ---
 
 ## 🛠️ Tech Stack & Tools (100+ Skills) 🚀  
