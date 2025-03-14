@@ -25,11 +25,7 @@ I'm a passionate **Data Scientist, Blockchain Developer, Web Developer & Financi
 
 ---
 
-## 🎮 Play 3D Snake Game  
-<p align="center">
-  <img src="https://github.com/RameezRS16/RameezRS16/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
+ 
 ---
 
 ## 📞 Connect With Me  
