@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 About Me
-I'm a passionate **Data Scientist, Blockchain Developer, Web Developer & Financial Analyst** with a focus on real-world applications.
+I'm a passionate about **Data Science, Blockchain Development, & Financial Analysis** with a focus on real-world applications.
 
 ## 🛠️ Technologies & Tools
 <div align="center">
