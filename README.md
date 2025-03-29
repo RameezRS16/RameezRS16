@@ -36,3 +36,7 @@ I'm a passionate about **Data Science, Blockchain Development, & Financial Analy
   <a href="https://www.instagram.com/rameezrs16/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://web.facebook.com/profile.php?id=61573389536792"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
+
+
+## 🔥 Featured Project: 4D Snake Game 🐍
+Experience the **next-gen Snake Game** with an additional **fourth dimension**! Unlike traditional 2D or 3D snake games, this version introduces a unique twist where players navigate through a **multi-layered spatial grid**.
