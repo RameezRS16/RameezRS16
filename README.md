@@ -36,8 +36,5 @@ I'm a passionate about **Data Science, Blockchain Development, & Financial Analy
   <a href="https://www.instagram.com/rameezrs16/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://web.facebook.com/profile.php?id=61573389536792"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
-
-
-
-![GitHub Snake](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/snake.svg)
+ 
 
