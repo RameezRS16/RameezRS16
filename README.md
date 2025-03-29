@@ -38,5 +38,6 @@ I'm a passionate about **Data Science, Blockchain Development, & Financial Analy
 </p>
 
 
-## 🔥 Featured Project: 4D Snake Game 🐍
-Experience the **next-gen Snake Game** with an additional **fourth dimension**! Unlike traditional 2D or 3D snake games, this version introduces a unique twist where players navigate through a **multi-layered spatial grid**.
+
+![GitHub Snake](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/snake.svg)
+
