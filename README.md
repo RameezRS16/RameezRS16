@@ -72,3 +72,21 @@
   <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoftazure">
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws">
 </p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RamzeezSoomro&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RamzeezSoomro&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamzeezSoomro&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
+
