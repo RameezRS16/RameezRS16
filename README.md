@@ -1,10 +1,4 @@
-<h1 style="color: green;">Hello</h1>
-
-<p align="center">
-  <img src="https://i.imgur.com/1XnNnbl.png" alt="Boy working on laptop" width="300"/>
-</p>
-
----
+ 
 
 ## 🚀 Tools & Technologies
 
