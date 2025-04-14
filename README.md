@@ -2,13 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👋+Welcome+to+Ramzeez's+World+of+Code;🔥+Data+Science+%7C+Blockchain+%7C+CSS;💻+Building+Smart+and+Decentralized+Futures" alt="Typing SVG" />
 </h1>
 
+<!-- 👨‍💻 3D Blockchain Animation -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="300"/>
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/15691947/media/b037497a246b35a6e5e586fe66f81e29.gif" width="400" alt="Guy working on blockchain laptop 3D" />
 </p>
 
 ---
 
-## 🛠️ 50+ Tools, Languages & Technologies
+## 🛠️ Languages, Tools & Technologies
 
 <p align="center">
   <!-- Programming Languages -->
@@ -73,20 +74,26 @@
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws">
 </p>
 
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamzeezSoomro&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RamzeezRajaSoomro&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RamzeezSoomro&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RamzeezRajaSoomro&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamzeezSoomro&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamzeezRajaSoomro&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
 
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RamzeezRajaSoomro&theme=algolia&no-bg=true&no-frame=true&row=2&column=3" />
+</p>
