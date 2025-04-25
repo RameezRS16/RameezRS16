@@ -57,11 +57,5 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 
----
- ---
-
- 
-
-![snake gif](https://github.com/RamzeezSoomro/RamzeezSoomro/blob/output/github-contribution-grid-snake.svg)
-
+--
  
